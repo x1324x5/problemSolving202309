@@ -1,2 +1,2 @@
 # problemSolving202309
-Code for problemSovling nju OJ
+OJ Code for NJU problem solving
